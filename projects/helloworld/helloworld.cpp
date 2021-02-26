@@ -5,6 +5,7 @@ int main(){
 	/* l = left, h = right, k = up, j = down, i = insert same line, o = insert next line */
 	/* shift : w = save */
 	/* shift : q = quit */
+	// hi this is new code
 }
 
 
